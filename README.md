@@ -23,7 +23,7 @@ Based on the results of this analysis, I've answered the following questions:
 
 ### - **What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?** 
 
-<img src="images/Delv 2_percent_5-star_reviews.PNG">
+<img src="https://github.com/SThieshen/Amazon_Vine_Analysis/blob/main/development/images/Del_2_5_star.png">
 
 ## Challenge Summary
 In summary, the percentage of 5 star ratings for Vine reviews is 31.9% compared to 51.8% for non-Vine reviews, which clearly shows there is no bias for reviews in the Vine program. If there was a positive bias for Vine reviews, we would expect the opposite trend - that the percentage of 5 star ratings for Vine reviews to be higher than non-Vine reviews. To support this assertion further, I could perform statistical analysis to compare the distribution of reviews between the two groups, such as calculating the mean and mode for each subset.
