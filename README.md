@@ -19,7 +19,7 @@ Based on the results of this analysis, I've answered the following questions:
 
 ### - **How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?** 
 
-<img src="images/Delv 2_total_5-star_reviews.PNG">
+<img src="https://github.com/SThieshen/Amazon_Vine_Analysis/blob/main/development/images/Del_2_total.png">
 
 ### - **What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?** 
 
