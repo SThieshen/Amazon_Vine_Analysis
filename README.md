@@ -15,7 +15,7 @@ Based on the results of this analysis, I've answered the following questions:
 
 ### - **How many Vine (paid) reviews and non-Vine (unpaid) reviews were there?**
 
-<img src="images/Delv 2_total_reviews.PNG">
+<img src="https://github.com/SThieshen/Amazon_Vine_Analysis/blob/main/development/images/total.png">
 
 ### - **How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?** 
 
