@@ -1,7 +1,5 @@
 # Big Data
 
-<img src="images/bigdata-header.jpg" width="1000" height="300">
-
 ## Project Overview
 As a data analyst for BigMarket, a startup that helps businesses optimize their marketing efforts, I've been hired to help a new client, Sellby, perform some pretty hefty analytics. Sellby is preparing to release a large catalog of products on a leading retail website. They want to know how the reviews of their products compare to the reviews of similar products sold by their competitors. They're also interested in enrolling in a program that gives free products to select reviewers, but they want to know if it's worth the cost. There are thousands of reviews and they're in words, not numbers. For this project, I'll translate them in order to analyze them. Sellby hired BigMarket because they believe in the power of big data. It's now up to me to harness that power!  
 
